@@ -38,7 +38,7 @@ DOI = {10.3390/rs15133383}
 
 <div>
 <div class="card">
-  <img src="images/authors/author_01.jpg" alt="Avatar" style="width:100%">
+  <img src="images/authors/author_01.jpg" alt="Avatar" style="width:120%">
   <div class="container">
     <a href="https://yujiazhang777.github.io/yutomms.github.io/">
     <h4><b>Yujia Zhang</b></h4>  
@@ -47,7 +47,7 @@ DOI = {10.3390/rs15133383}
     
 </div>
 <div class="card">
-  <img src="images/authors/author_02.jpg" alt="Avatar" style="width:100%">
+  <img src="images/authors/author_02.jpg" alt="Avatar" style="width:120%">
   <div class="container">
     <a href="https://gunhosohn.me/mostafa-ahmedi/">
     <h4><b>SeyedMostafa Ahmadi</b></h4>  
@@ -56,7 +56,7 @@ DOI = {10.3390/rs15133383}
     
 </div>
 <div class="card">
-  <img src="images/authors/author_03.jpg" alt="Avatar" style="width:100%">
+  <img src="images/authors/author_03.jpg" alt="Avatar" style="width:120%">
   <div class="container">
     <a href="https://gunhosohn.me/jungwon-kang/">
     <h4><b>Jungwon Kang</b></h4>
@@ -65,7 +65,7 @@ DOI = {10.3390/rs15133383}
     
 </div>
 <div class="card">
-  <img src="images/authors/author_04.jpg" alt="Avatar" style="width:100%">
+  <img src="images/authors/author_04.jpg" alt="Avatar" style="width:120%">
   <div class="container">
     <a href="https://gunhosohn.me/zahra-arjmandi/">
     <h4><b>Zahra Arjmandi</b></h4>  
@@ -74,7 +74,7 @@ DOI = {10.3390/rs15133383}
     
 </div>
 <div class="card">
-  <img src="images/authors/author_05.jpg" alt="Avatar" style="width:100%">
+  <img src="images/authors/author_05.jpg" alt="Avatar" style="width:120%">
   <div class="container">
     <a href="https://gunhosohn.me/"> 
     <h4><b>Gunho Sohn</b></h4>  
