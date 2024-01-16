@@ -27,6 +27,20 @@ Yujia Zhang, SeyedMostafa Ahmadi, Jungwon Kang, Zahra Arjmandi and Gunho Sohn
   year={2020},
 }
 ```
+```markdown
+@Article{rs15133383,
+AUTHOR = {Zhang, Yujia and Kang, Jungwon and Sohn, Gunho},
+TITLE = {PVL-Cartographer: Panoramic Vision-Aided LiDAR Cartographer-Based SLAM for Maverick Mobile Mapping System},
+JOURNAL = {Remote Sensing},
+VOLUME = {15},
+YEAR = {2023},
+NUMBER = {13},
+ARTICLE-NUMBER = {3383},
+URL = {https://www.mdpi.com/2072-4292/15/13/3383},
+ISSN = {2072-4292},
+DOI = {10.3390/rs15133383}
+}
+```
 
 ## **Authors**
 
