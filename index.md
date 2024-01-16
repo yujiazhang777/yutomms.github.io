@@ -36,16 +36,12 @@ DOI = {10.3390/rs15133383}
 
 ## **Authors**
 
-> Talent wins games, but teamwork and intelligence wins championships.
-
-*Yujia Zhang*
-
 <div>
 <div class="card">
   <img src="images/authors/author_01.jpg" alt="Avatar" style="width:100%">
   <div class="container">
-    <a href="https://tomerwolgithub.github.io/">
-    <h4><b>SeyedMostafa Ahmadi</b></h4>  
+    <a href="https://yujiazhang777.github.io/yutomms.github.io/">
+    <h4><b>Yujia Zhang</b></h4>  
     </a>
   </div>
     
@@ -53,8 +49,8 @@ DOI = {10.3390/rs15133383}
 <div class="card">
   <img src="images/authors/author_02.jpg" alt="Avatar" style="width:100%">
   <div class="container">
-    <a href="https://mega002.github.io/">
-    <h4><b>Jungwon Kang</b></h4>  
+    <a href="https://gunhosohn.me/mostafa-ahmedi/">
+    <h4><b>SeyedMostafa Ahmadi</b></h4>  
     </a>
   </div>
     
@@ -62,8 +58,8 @@ DOI = {10.3390/rs15133383}
 <div class="card">
   <img src="images/authors/author_03.jpg" alt="Avatar" style="width:100%">
   <div class="container">
-    <a href="https://sites.google.com/view/ag1988/home">
-    <h4><b>Zahra Arjmandi</b></h4>  
+    <a href="https://gunhosohn.me/jungwon-kang/">
+    <h4><b>Jungwon Kang</b></h4>
     </a>
   </div>
     
@@ -71,8 +67,8 @@ DOI = {10.3390/rs15133383}
 <div class="card">
   <img src="images/authors/author_04.jpg" alt="Avatar" style="width:100%">
   <div class="container">
-    <a href="https://allenai.org/team/mattg/">
-    <h4><b>Gunho Sohn</b></h4>  
+    <a href="https://gunhosohn.me/zahra-arjmandi/">
+    <h4><b>Zahra Arjmandi</b></h4>  
     </a>
   </div>
     
@@ -80,7 +76,8 @@ DOI = {10.3390/rs15133383}
 <div class="card">
   <img src="images/authors/author_05.jpg" alt="Avatar" style="width:100%">
   <div class="container">
-    <a href="https://www.cs.bgu.ac.il/~yoavg/uni/"> 
+    <a href="https://gunhosohn.me/"> 
+    <h4><b>Gunho Sohn</b></h4>  
     </a>
   </div> 
 </div>
