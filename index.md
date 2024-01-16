@@ -38,40 +38,44 @@ DOI = {10.3390/rs15133383}
 
 > Talent wins games, but teamwork and intelligence wins championships.
 
-*Michael Jordan*
+*Yujia Zhang*
 
 <div>
 <div class="card">
   <img src="images/authors/author_01.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <a href="https://tomerwolgithub.github.io/">
-    <h4><b>Tomer Wolfson</b></h4>  
+    <h4><b>SeyedMostafa Ahmadi</b></h4>  
     </a>
   </div>
+    
 </div>
 <div class="card">
   <img src="images/authors/author_02.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <a href="https://mega002.github.io/">
-    <h4><b>Mor <br>Geva</b></h4>  
+    <h4><b>Jungwon Kang</b></h4>  
     </a>
   </div>
+    
 </div>
 <div class="card">
   <img src="images/authors/author_03.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <a href="https://sites.google.com/view/ag1988/home">
-    <h4><b>Ankit Gupta</b></h4>  
+    <h4><b>Zahra Arjmandi</b></h4>  
     </a>
   </div>
+    
 </div>
 <div class="card">
   <img src="images/authors/author_04.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <a href="https://allenai.org/team/mattg/">
-    <h4><b>Matt Gardner</b></h4>  
+    <h4><b>Gunho Sohn</b></h4>  
     </a>
   </div>
+    
 </div>
 <div class="card">
   <img src="images/authors/author_05.jpg" alt="Avatar" style="width:100%">
@@ -80,22 +84,7 @@ DOI = {10.3390/rs15133383}
     <h4><b>Yoav Goldberg</b></h4>  
     </a>
   </div>
-</div>
-<div class="card">
-  <img src="images/authors/author_06.jpg" alt="Avatar" style="width:100%">
-  <div class="container">
-    <a href="https://www.cs.tau.ac.il/~danielde/">
-    <h4><b>Daniel Deutch</b></h4>  
-    </a>
-  </div>
-</div>
-<div class="card">
-  <img src="images/authors/author_07.jpg" alt="Avatar" style="width:100%">
-  <div class="container">
-    <a href="http://www.cs.tau.ac.il/~joberant/">
-    <h4><b>Jonathan Berant</b></h4>  
-    </a>
-  </div>
+    
 </div>
 </div>
 
