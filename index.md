@@ -20,14 +20,6 @@ Yujia Zhang, SeyedMostafa Ahmadi, Jungwon Kang, Zahra Arjmandi and Gunho Sohn
 *The International Journal of Robotics Research, 2024*  
 
 ```markdown
-@article{Wolfson2020Break,
-  title={Break It Down: A Question Understanding Benchmark},
-  author={Wolfson, Tomer and Geva, Mor and Gupta, Ankit and Gardner, Matt and Goldberg, Yoav and Deutch, Daniel and Berant, Jonathan},
-  journal={Transactions of the Association for Computational Linguistics},
-  year={2020},
-}
-```
-```markdown
 @Article{rs15133383,
 AUTHOR = {Zhang, Yujia and Kang, Jungwon and Sohn, Gunho},
 TITLE = {PVL-Cartographer: Panoramic Vision-Aided LiDAR Cartographer-Based SLAM for Maverick Mobile Mapping System},
