@@ -80,11 +80,9 @@ DOI = {10.3390/rs15133383}
 <div class="card">
   <img src="images/authors/author_05.jpg" alt="Avatar" style="width:100%">
   <div class="container">
-    <a href="https://www.cs.bgu.ac.il/~yoavg/uni/">
-    <h4><b>Yoav Goldberg</b></h4>  
+    <a href="https://www.cs.bgu.ac.il/~yoavg/uni/"> 
     </a>
-  </div>
-    
+  </div> 
 </div>
 </div>
 
