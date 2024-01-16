@@ -1,7 +1,7 @@
 ## **YUTO MMS: A Comprehensive Mobile Mapping Dataset for Enhanced SLAM Research**
 
 YUTO MMS is a dataset for SLAM research, aim at . 
-This dataset was created by a team of [NLP researchers](#authors) at [AUSM Lab](https://gunhosohn.me/).
+This dataset was created by a team of [AUSM Lab](https://gunhosohn.me/).
 
 
 For more details on Break, please refer to our [TACL 2020 paper](#paper), and to our [blogpost](https://allenai.github.io/Break/blogpost.html).  
