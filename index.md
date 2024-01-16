@@ -1,17 +1,20 @@
 ## **YUTO MMS: A Comprehensive Mobile Mapping Dataset for Enhanced SLAM Research**
 
-YUTO MMS is a dataset for SLAM research, aim at . 
+The York University Teledyne Optech (YUTO) Mobile Mapping System (MMS) Dataset, encompassing four extensive sequences totalling 18.9 kilometres, was thoroughly assembled through two data collection expeditions on August 12,
+2020, and June 21, 2019. Acquisitions were performed using a uniquely equipped vehicle, fortified with a panoramic camera, a tilted LiDAR, a Global Positioning System (GPS), and an Inertial Measurement Unit (IMU), journeying through
+two strategic locations: the York University Keele Campus in Toronto and the Teledyne Optech headquarters in City of Vaughan, Canada. This paper not only delineates the comprehensive overview of the YUTO MMS Dataset, delving
+into aspects such as the collection procedure, sensor configuration, synchronization, and data structure and format but also presents a robust benchmark of prevailing Simultaneous Localization and Mapping (SLAM) systems. By subjecting
+them to analysis utilizing the introduced dataset, this research lays a foundational baseline for ensuing studies, thereby contributing to advancements and enhancements in the mobile mapping domain.
 This dataset was created by a team of [AUSM Lab](https://gunhosohn.me/).
 
 
-For more details on Break, please refer to our [TACL 2020 paper](#paper), and to our [blogpost](https://allenai.github.io/Break/blogpost.html).  
+For more details on Break, please refer to our [paper](#paper).  
 
 <center>
-    <a href="https://allenai.github.io/Break/images/qdmr01.png"> 
-        <img src="images/qdmr01.png" height="170">
+    <a href="https://github.com/yujiazhang777/yutomms.github.io/blob/main/images/maverick_route.jpg"> 
+        <img src="images/maverick_route" height="170">
       </a>
 </center>
-
 
 ## **Paper**
 
@@ -38,7 +41,7 @@ DOI = {10.3390/rs15133383}
 
 <div>
 <div class="card">
-  <img src="images/authors/author_01.jpg" alt="Avatar" style="width:120%">
+  <img src="images/authors/author_01.jpg" alt="Avatar" style="width:150%">
   <div class="container">
     <a href="https://yujiazhang777.github.io/yutomms.github.io/">
     <h4><b>Yujia Zhang</b></h4>  
@@ -47,7 +50,7 @@ DOI = {10.3390/rs15133383}
     
 </div>
 <div class="card">
-  <img src="images/authors/author_02.jpg" alt="Avatar" style="width:120%">
+  <img src="images/authors/author_02.jpg" alt="Avatar" style="width:150%">
   <div class="container">
     <a href="https://gunhosohn.me/mostafa-ahmedi/">
     <h4><b>SeyedMostafa Ahmadi</b></h4>  
@@ -56,7 +59,7 @@ DOI = {10.3390/rs15133383}
     
 </div>
 <div class="card">
-  <img src="images/authors/author_03.jpg" alt="Avatar" style="width:120%">
+  <img src="images/authors/author_03.jpg" alt="Avatar" style="width:150%">
   <div class="container">
     <a href="https://gunhosohn.me/jungwon-kang/">
     <h4><b>Jungwon Kang</b></h4>
@@ -65,7 +68,7 @@ DOI = {10.3390/rs15133383}
     
 </div>
 <div class="card">
-  <img src="images/authors/author_04.jpg" alt="Avatar" style="width:120%">
+  <img src="images/authors/author_04.jpg" alt="Avatar" style="width:150%">
   <div class="container">
     <a href="https://gunhosohn.me/zahra-arjmandi/">
     <h4><b>Zahra Arjmandi</b></h4>  
@@ -74,7 +77,7 @@ DOI = {10.3390/rs15133383}
     
 </div>
 <div class="card">
-  <img src="images/authors/author_05.jpg" alt="Avatar" style="width:120%">
+  <img src="images/authors/author_05.jpg" alt="Avatar" style="width:150%">
   <div class="container">
     <a href="https://gunhosohn.me/"> 
     <h4><b>Gunho Sohn</b></h4>  
@@ -84,19 +87,10 @@ DOI = {10.3390/rs15133383}
 </div>
 
 
-## **Leaderboard**
 
-### **Submission**
-Evaluating predictions for the hidden test set is done via the [AI2 Leaderboard page](https://leaderboard.allenai.org/).
-Log on to the leaderboard website and follow the submission instructions.
-* **[Break Leaderboard](https://leaderboard.allenai.org/break/)**
-* **[Break High-Level Leaderboard](https://leaderboard.allenai.org/break_high_level/)**  
+### **Dataset Description**
 
-*Given the GED metric is computed by an approximation algorithm, the evaluation may take several hours. The approximation algorithm also results in slightly different GED values than the paper.*
-
-### **Results**
-
-**Break**
+**YUTO MMS**
 
 Rank | Submission | Created | EM Dev. | EM Test | SARI Dev. | SARI Test | GED Dev. | GED Test 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
@@ -105,19 +99,20 @@ Rank | Submission | Created | EM Dev. | EM Test | SARI Dev. | SARI Test | GED De
 3 | RuleBased <br>*([Wolfson et al., TACL 2020](https://arxiv.org/abs/2001.11770v1))* | Feb 1, 2020 | `0.002`  | `0.003` | `0.508`  | `0.506` | `0.799`  | `0.802`  
 
 
-**Break High-level**
+**Dataset Evaluation**
 
 Rank | Submission | Created | EM Dev. | EM Test | SARI Dev. | SARI Test | GED Dev. | GED Test 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 1 | CopyNet <br>*([Wolfson et al., TACL 2020](https://arxiv.org/abs/2001.11770v1))* | Feb 1, 2020 | **`0.081`**  | **`0.083`** | **`0.722`**  | **`0.722`** | **`0.319`**  | **`0.316`** 
 2 | RuleBased <br>*([Wolfson et al., TACL 2020](hhttps://arxiv.org/abs/2001.11770v1))* | Feb 1, 2020 | `0.010`  | `0.012` | `0.554`  | `0.554` | `0.659`  | `0.652`  
 
-## **Explore**
-
-To view (many) more question decomposition examples, [explore Break](/explore.md).
 
 ## **Download**
 
 - For the full documentation of the dataset and its format please refer to our [Github repository](https://github.com/allenai/Break).  
 - Click here to [download Break](https://github.com/allenai/Break/raw/master/break_dataset/Break-dataset.zip).
+
+## **Explore**
+
+To view (many) more question decomposition examples, [explore Break](/explore.md).
 
