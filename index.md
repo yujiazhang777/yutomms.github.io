@@ -93,7 +93,7 @@ The directory structure of our YUTO MMS dataset is shown in the following figure
 
 <center>
     <a href="https://github.com/yujiazhang777/yutomms.github.io/blob/main/images/YUTO-Dataset-directory-structure.JPG"> 
-        <img src="images/YUTO-Dataset-directory-structure.JPG" height="270">
+        <img src="images/YUTO-Dataset-directory-structure.JPG" height="400">
       </a>
 </center>
 
