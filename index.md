@@ -44,7 +44,7 @@ DOI = {10.3390/rs15133383}
   <img src="images/authors/author_01.jpg" alt="Avatar" width="250" height="100">
   <div class="container">
     <a href="https://yujiazhang777.github.io/yujiazhang.github.io/">
-    <h4><b>Yujia Zhang</b></h4>  
+    <h4><b>Yujia    Zhang</b></h4>  
     </a>
   </div>
     
@@ -93,7 +93,7 @@ The directory structure of our YUTO MMS dataset is shown in the following figure
 
 <center>
     <a href="https://github.com/yujiazhang777/yutomms.github.io/blob/main/images/YUTO-Dataset-directory-structure.JPG"> 
-        <img src="images/YUTO-Dataset-directory-structure.JPG" height="170">
+        <img src="images/YUTO-Dataset-directory-structure.JPG" height="270">
       </a>
 </center>
 
