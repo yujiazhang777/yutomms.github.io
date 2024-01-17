@@ -44,7 +44,7 @@ DOI = {10.3390/rs15133383}
   <img src="images/authors/author_01.jpg" alt="Avatar" width="250" height="100">
   <div class="container">
     <a href="https://yujiazhang777.github.io/yujiazhang.github.io/">
-    <h4><b>Yujia    Zhang</b></h4>  
+    <h4><b>Yujia Zhang</b></h4>  
     </a>
   </div>
     
@@ -93,7 +93,7 @@ The directory structure of our YUTO MMS dataset is shown in the following figure
 
 <center>
     <a href="https://github.com/yujiazhang777/yutomms.github.io/blob/main/images/YUTO-Dataset-directory-structure.JPG"> 
-        <img src="images/YUTO-Dataset-directory-structure.JPG" height="400">
+        <img src="images/YUTO-Dataset-directory-structure.JPG" height="270">
       </a>
 </center>
 
@@ -128,7 +128,7 @@ D | 10.665 | 12.875 | 5.673  | 4.69 | Fail  | 58.576 | 2.204
 ## **Download**
 
 - For the full documentation of the dataset and its format please refer to our [Github repository](https://github.com/allenai/Break).  
-- Click here to [download Break](https://github.com/allenai/Break/raw/master/break_dataset/Break-dataset.zip).
+- Click here to [download YUTO MMS](https://zenodo.org/records/10521656?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjYwNmQwMmJkLTFjOTktNDRlZS04YWNkLTgyOWJiNjI1YzhiMSIsImRhdGEiOnt9LCJyYW5kb20iOiJhNzY1MWIyMGQ5NzViMThlYWI0NjlkNDM2ODQ0NWFlYiJ9.d1MZxG5mI2OgMAjBtm5wo4zzi8B04d6LkK8rJlwQ1sRZUkBDNyPWU-AoBOdGxv5SUQ0lpV_QeCmXFqwDV2gYfA).
 
 ## **Explore**
 
