@@ -126,8 +126,6 @@ D | 10.665 | 12.875 | 5.673  | 4.69 | Fail  | 58.576 | 2.204
 ## **Download**
 
 - To download the YUTO MMS dataset, [download YUTO MMS](/download.md).
-- For the full documentation of the dataset and its format please refer to our [Github repository](https://github.com/yujiazhang777/yutomms.github.io).  
-- Click here to [download YUTO MMS](https://zenodo.org/records/10521656?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjYwNmQwMmJkLTFjOTktNDRlZS04YWNkLTgyOWJiNjI1YzhiMSIsImRhdGEiOnt9LCJyYW5kb20iOiJhNzY1MWIyMGQ5NzViMThlYWI0NjlkNDM2ODQ0NWFlYiJ9.d1MZxG5mI2OgMAjBtm5wo4zzi8B04d6LkK8rJlwQ1sRZUkBDNyPWU-AoBOdGxv5SUQ0lpV_QeCmXFqwDV2gYfA).
 
 ## **News**
 
