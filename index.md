@@ -8,7 +8,7 @@ them to analysis utilizing the introduced dataset, this research lays a foundati
 This dataset was created by a team of [AUSM Lab](https://gunhosohn.me/).
 
 
-For more details on Break, please refer to our [paper](#paper).  
+For more details on YUTO MMS dataset, please refer to our [paper](#paper).  
 
 <center>
     <a href="https://github.com/yujiazhang777/yutomms.github.io/blob/main/images/maverick_route.jpg"> 
@@ -39,18 +39,19 @@ DOI = {10.3390/rs15133383}
 
 ## **Authors**
 
+</center>
 <div>
 <div class="card">
-  <img src="images/authors/author_01.jpg" alt="Avatar" width="250">
+  <img src="images/authors/author_01.jpg" alt="Avatar" width="250" height="200">
   <div class="container">
-    <a href="https://yujiazhang777.github.io/yutomms.github.io/">
+    <a href="https://yujiazhang777.github.io/yujiazhang.github.io/">
     <h4><b>Yujia Zhang</b></h4>  
     </a>
   </div>
     
 </div>
 <div class="card">
-  <img src="images/authors/author_02.jpg" alt="Avatar" width="250">
+  <img src="images/authors/author_02.jpg" alt="Avatar" width="250" height="200">
   <div class="container">
     <a href="https://gunhosohn.me/mostafa-ahmedi/">
     <h4><b>SeyedMostafa Ahmadi</b></h4>  
@@ -59,7 +60,7 @@ DOI = {10.3390/rs15133383}
     
 </div>
 <div class="card">
-  <img src="images/authors/author_03.jpg" alt="Avatar" width="250">
+  <img src="images/authors/author_03.jpg" alt="Avatar" width="250" height="200">
   <div class="container">
     <a href="https://gunhosohn.me/jungwon-kang/">
     <h4><b>Jungwon Kang</b></h4>
@@ -68,7 +69,7 @@ DOI = {10.3390/rs15133383}
     
 </div>
 <div class="card">
-  <img src="images/authors/author_04.jpg" alt="Avatar" width="250">
+  <img src="images/authors/author_04.jpg" alt="Avatar" width="250" height="200">
   <div class="container">
     <a href="https://gunhosohn.me/zahra-arjmandi/">
     <h4><b>Zahra Arjmandi</b></h4>  
@@ -85,26 +86,45 @@ DOI = {10.3390/rs15133383}
   </div> 
 </div>
 </div>
-
+</center>
 
 
 ### **Dataset Description**
 
-**YUTO MMS**
+The directory structure of our YUTO MMS dataset is shown in the following figure.  
 
-Rank | Submission | Created | EM Dev. | EM Test | SARI Dev. | SARI Test | GED Dev. | GED Test 
------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-1 | Curriculum-trained CopyNet <br>*Chris Coleman and Alex Reneau,*<br>*Northwestern University* | Jul 1, 2020 | **`_`**  | **`0.163`** | **`_`**  | **`0.757`** | **`_`**  | **`0.271`** 
-2 | CopyNet <br>*([Wolfson et al., TACL 2020](https://arxiv.org/abs/2001.11770v1))* | Feb 1, 2020 | **`0.154`**  | `0.157` | **`0.748`**  | `0.746` | **`0.318`**  | `0.322` 
-3 | RuleBased <br>*([Wolfson et al., TACL 2020](https://arxiv.org/abs/2001.11770v1))* | Feb 1, 2020 | `0.002`  | `0.003` | `0.508`  | `0.506` | `0.799`  | `0.802`  
+<center>
+    <a href="https://github.com/yujiazhang777/yutomms.github.io/blob/main/images/YUTO-Dataset-directory-structure.jpg"> 
+        <img src="images/YUTO-Dataset-directory-structure.jpg" height="170">
+      </a>
+</center>
 
+**Panoramic images general information**
+
+Sequence | Image file format | Image w*h | Number of images | Min file size | Max file size | Average file size | Total directory volume 
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
+A | JPG | 2000*1000 | 717  | 1368 KB | 1592 KB  | 1484 KB | 1.06 GB   
+B | JPG | 2000*1000 | 8382  | 456 KB | 828 KB  | 541 KB | 4.5 GB     
+C | JPG | 2000*1000 | 10776  | 468 KB | 636 KB  | 542 KB | 5.8 GB    
+D | JPG | 2000*1000 | 4500  | 452 KB | 1012 KB  | 561 KB | 2.5 GB    
+
+**LiDAR data general information**
+
+Sequence | LiDAR file format | Number of images | Min file size | Max file size | Average file size | Total directory volume 
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+A | .bin | 1432 | 124 KB | 648 KB  | 422 KB | 604.8 GB   
+B | .bin | 17395 | 16 KB | 644 KB  | 464 KB | 7.7 GB     
+C | .bin | 22992 | 24 KB | 708 KB  | 470 KB | 10.3 GB    
+D | .bin | 9615 | 380 KB | 668 KB  | 485 KB | 4.6 GB    
 
 **Dataset Evaluation**
 
-Rank | Submission | Created | EM Dev. | EM Test | SARI Dev. | SARI Test | GED Dev. | GED Test 
------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-1 | CopyNet <br>*([Wolfson et al., TACL 2020](https://arxiv.org/abs/2001.11770v1))* | Feb 1, 2020 | **`0.081`**  | **`0.083`** | **`0.722`**  | **`0.722`** | **`0.319`**  | **`0.316`** 
-2 | RuleBased <br>*([Wolfson et al., TACL 2020](hhttps://arxiv.org/abs/2001.11770v1))* | Feb 1, 2020 | `0.010`  | `0.012` | `0.554`  | `0.554` | `0.659`  | `0.652`  
+Sequence | ORB-SLAM2 | VINS | RPV-SLAM | HDPV-SLAM | LOAM | Cartographer | PVL-Cartographer 
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+A | 5.894 | 3.997 | 1.618  | 1.4 | Fail  | 4.023 | 0.766  
+B | 100.870 | 86.897 | 12.910  | 9.58 | Fail  | 152.230 | 2.599  
+C | 155.908 | 160.765 | 30.661  | 11.93 | Fail  | 183.619 | 3.739  
+D | 10.665 | 12.875 | 5.673  | 4.69 | Fail  | 58.576 | 2.204  
 
 
 ## **Download**
