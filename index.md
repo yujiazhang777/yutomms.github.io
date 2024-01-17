@@ -2,9 +2,7 @@
 
 The York University Teledyne Optech (YUTO) Mobile Mapping System (MMS) Dataset, encompassing four extensive sequences totalling 18.9 kilometres, was thoroughly assembled through two data collection expeditions on August 12,
 2020, and June 21, 2019. Acquisitions were performed using a uniquely equipped vehicle, fortified with a panoramic camera, a tilted LiDAR, a Global Positioning System (GPS), and an Inertial Measurement Unit (IMU), journeying through
-two strategic locations: the York University Keele Campus in Toronto and the Teledyne Optech headquarters in City of Vaughan, Canada. This paper not only delineates the comprehensive overview of the YUTO MMS Dataset, delving
-into aspects such as the collection procedure, sensor configuration, synchronization, and data structure and format but also presents a robust benchmark of prevailing Simultaneous Localization and Mapping (SLAM) systems. By subjecting
-them to analysis utilizing the introduced dataset, this research lays a foundational baseline for ensuing studies, thereby contributing to advancements and enhancements in the mobile mapping domain.
+two strategic locations: the York University Keele Campus in Toronto and the Teledyne Optech headquarters in City of Vaughan, Canada. This is a robust benchmark of prevailing Simultaneous Localization and Mapping (SLAM) systems. 
 This dataset was created by a team of [AUSM Lab](https://gunhosohn.me/).
 
 
@@ -93,7 +91,7 @@ The directory structure of our YUTO MMS dataset is shown in the following figure
 
 <center>
     <a href="https://github.com/yujiazhang777/yutomms.github.io/blob/main/images/YUTO-Dataset-directory-structure.JPG"> 
-        <img src="images/YUTO-Dataset-directory-structure.JPG" height="270">
+        <img src="images/YUTO-Dataset-directory-structure.JPG" height="400">
       </a>
 </center>
 
@@ -127,10 +125,11 @@ D | 10.665 | 12.875 | 5.673  | 4.69 | Fail  | 58.576 | 2.204
 
 ## **Download**
 
-- For the full documentation of the dataset and its format please refer to our [Github repository](https://github.com/allenai/Break).  
+- To download the YUTO MMS dataset, [download YUTO MMS](/download.md).
+- For the full documentation of the dataset and its format please refer to our [Github repository](https://github.com/yujiazhang777/yutomms.github.io).  
 - Click here to [download YUTO MMS](https://zenodo.org/records/10521656?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjYwNmQwMmJkLTFjOTktNDRlZS04YWNkLTgyOWJiNjI1YzhiMSIsImRhdGEiOnt9LCJyYW5kb20iOiJhNzY1MWIyMGQ5NzViMThlYWI0NjlkNDM2ODQ0NWFlYiJ9.d1MZxG5mI2OgMAjBtm5wo4zzi8B04d6LkK8rJlwQ1sRZUkBDNyPWU-AoBOdGxv5SUQ0lpV_QeCmXFqwDV2gYfA).
 
-## **Explore**
+## **News**
 
-To view (many) more question decomposition examples, [explore Break](/explore.md).
+To get the udpates of YUTO dataset, [news](/news.md).
 

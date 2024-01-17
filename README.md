@@ -1,11 +1,11 @@
-# Break: A Question Understanding Benchmark
+# YUTO MMS: A Comprehensive Mobile Mapping Dataset for Enhanced SLAM Research
 
-<img align="left" src="images/break.svg" height="100"></img>
-Break is a human annotated dataset of natural language questions and their Question Decomposition Meaning Representations (QDMRs). Break consists of 83,978 examples sampled from 10 question answering datasets over text, images and databases.
-This repository contains the Break dataset along with information on the exact data format.
+he York University Teledyne Optech (YUTO) Mobile Mapping System (MMS) Dataset, encompassing four extensive sequences totalling 18.9 kilometres, was thoroughly assembled through two data collection expeditions on August 12,
+2020, and June 21, 2019. Acquisitions were performed using a uniquely equipped vehicle, fortified with a panoramic camera, a tilted LiDAR, a Global Positioning System (GPS), and an Inertial Measurement Unit (IMU), journeying through
+two strategic locations: the York University Keele Campus in Toronto and the Teledyne Optech headquarters in City of Vaughan, Canada. This is a robust benchmark of prevailing Simultaneous Localization and Mapping (SLAM) systems. 
+This dataset was created by a team of [AUSM Lab](https://gunhosohn.me/).
 
 For more details check out our paper ["YUTO MMS: A Comprehensive Mobile Mapping Dataset for Enhanced SLAM Research"](https://arxiv.org/abs/2001.11770v1), and [website](https://yujiazhang777.github.io/yutomms.github.io/).  
-The code and models presented in our [paper](https://arxiv.org/abs/2001.11770v1), see our repository at: [https://github.com/tomerwolgithub/Break](https://github.com/tomerwolgithub/Break).
 
 
 
