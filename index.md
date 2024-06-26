@@ -41,7 +41,7 @@ DOI = {10.3390/rs15133383}
 <div class="card">
   <img src="images/authors/author_01.jpg" alt="Avatar" width="250" height="100">
   <div class="container">
-    <a href="https://yujiazhang777.github.io/yujiazhang.github.io/">
+    <a href="https://scholar.google.com/citations?hl=en&user=ww8ZXGEAAAAJ">
     <h4><b>Yujia Zhang</b></h4>  
     </a>
   </div>
